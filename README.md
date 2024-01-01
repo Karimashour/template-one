@@ -7,10 +7,7 @@ https://karimashour.github.io/template-one/
 # tools :
 - html
 - css
-- bootstrap
-- bootstrap icons
-- jquery
 
 
 # features
-- squash sport landing page 
+- template one with elzero web school
